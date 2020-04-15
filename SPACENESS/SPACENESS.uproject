@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SpaceNebulaStarfield",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8af0da00ef64438484d9dc6e7e3b860c"
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
