@@ -59,3 +59,19 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/windows
+SPACENESS/Saved/Config/Windows/Editor.ini
+SPACENESS/Saved/Config/Windows/Editor.ini
+SPACENESS/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+SPACENESS/Saved/Config/Windows/Editor.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-31975218467641C7FA2A18AD63A89574/CrashReportClient.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-45741FCB4A646D4503BF3D863B4BE9BB/CrashReportClient.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-60CA73A74BD9A83E82FACA8918733407/CrashReportClient.ini
+SPACENESS/Saved/Logs/SPACENESS.log
+SPACENESS/Saved/Logs/SPACENESS.log
+*.log
+*.ini
+SPACENESS/Saved/Config/Windows/Editor.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-31975218467641C7FA2A18AD63A89574/CrashReportClient.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-45741FCB4A646D4503BF3D863B4BE9BB/CrashReportClient.ini
+SPACENESS/Saved/Config/CrashReportClient/UE4CC-Windows-60CA73A74BD9A83E82FACA8918733407/CrashReportClient.ini
+SPACENESS/Intermediate/CachedAssetRegistry.bin
