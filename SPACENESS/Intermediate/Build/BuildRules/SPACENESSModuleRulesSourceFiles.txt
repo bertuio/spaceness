@@ -1,2 +1,2 @@
-D:\projectsunreal\SPACENESS\Intermediate\Source\SPACENESS.Build.cs
-D:\projectsunreal\SPACENESS\Intermediate\Source\SPACENESS.Target.cs
+D:\GitHub\spaceness\spaceness\SPACENESS\Intermediate\Source\SPACENESS.Build.cs
+D:\GitHub\spaceness\spaceness\SPACENESS\Intermediate\Source\SPACENESS.Target.cs
